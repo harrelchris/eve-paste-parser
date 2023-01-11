@@ -1,0 +1,8 @@
+# Development dependencies
+-r requirements.txt
+
+Coverage
+Pre-Commit
+PyTest
+PyTest-HTML
+Tox
