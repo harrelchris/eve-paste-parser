@@ -1,0 +1,14 @@
+Pyroxeres	57,074	17,122 m3	25 km
+Pyroxeres	57,596	17,278 m3	26 km
+Pyroxeres	61,962	18,588 m3	25 km
+Pyroxeres	67,702	20,310 m3	25 km
+Pyroxeres	69,086	20,725 m3	24 km
+Pyroxeres	96,762	29,028 m3	25 km
+Solid Pyroxeres	41,708	12,512 m3	27 km
+Solid Pyroxeres	48,636	14,590 m3	27 km
+Solid Pyroxeres	58,443	17,532 m3	24 km
+Solid Pyroxeres	60,180	18,054 m3	25 km
+Solid Pyroxeres	66,948	20,084 m3	24 km
+Solid Pyroxeres	73,462	22,038 m3	25 km
+Solid Pyroxeres	87,896	26,368 m3	24 km
+Solid Pyroxeres	94,930	28,479 m3	26 km

@@ -1,0 +1,9 @@
+Loot
+Station Container	3
+Heavy Water	1287839
+Electrolytes	253953
+Oxygen	485932
+Precious Metals	285586
+Reactive Metals	44740
+Toxic Metals	140100
+Water	227474

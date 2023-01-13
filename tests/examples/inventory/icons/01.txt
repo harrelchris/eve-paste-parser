@@ -1,0 +1,3 @@
+Veldspar	25
+Thorium Charge S	100
+Metal Scraps	1

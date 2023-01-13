@@ -1,0 +1,11 @@
+Arkonor	5,000	80,000 m3	48 km
+Bistot	5,000	80,000 m3	51 km
+Pyroxeres	32,680	9,804 m3	25 km
+Pyroxeres	39,689	11,906 m3	36 km
+Pyroxeres	46,693	14,007 m3	43 km
+Pyroxeres	60,701	18,210 m3	45 km
+Pyroxeres	79,284	23,785 m3	33 km
+Pyroxeres	79,284	23,785 m3	37 km
+Pyroxeres	82,085	24,625 m3	28 km
+Pyroxeres	84,887	25,466 m3	23 km
+Pyroxeres	94,692	28,407 m3	22 km

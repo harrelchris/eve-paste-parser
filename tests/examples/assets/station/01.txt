@@ -1,0 +1,4 @@
+Loot		Audit Log Secure Container			2,000,000 m3	45,300.64 ISK
+Heavy Water	1,287,839	Ice Product			515,135.60 m3	201,302,114.09 ISK
+Doc Harrel's Minmatar Shuttle		Shuttle			5,000 m3	19,471.51 ISK
+Minmatar Shuttle	1	Shuttle			500 m3	19,471.51 ISK

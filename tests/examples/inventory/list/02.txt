@@ -1,0 +1,7 @@
+Catalyst		Destroyer			55,000 m3	1,021,278.90 ISK
+Doc Harrel's Minmatar Shuttle		Shuttle			5,000 m3	19,471.51 ISK
+Huginn		Combat Recon Ship			85,000 m3	140,577,272.73 ISK
+Minmatar Shuttle	1	Shuttle			500 m3	19,471.51 ISK
+Noctis		Hauler			270,000 m3	123,371,776.26 ISK
+Prowler		Blockade Runner			180,000 m3	120,123,472.67 ISK
+Rapier		Force Recon Ship			85,000 m3	142,784,459.02 ISK

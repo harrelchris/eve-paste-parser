@@ -1,0 +1,6 @@
+Scourge Cruise Missile	Cruise Missile	5300
+Spike M	Advanced Railgun Charge	4277
+Improved Blue Pill Booster Reaction Formula	Biochemical Reaction Formulas	1
+Improved Blue Pill Booster Blueprint	Booster Blueprints	1
+Cartography: The Art of Treasure Map Making	Commodities	1
+22nd Tier Overseer's Personal Effects	Overseer Personal Effects	1

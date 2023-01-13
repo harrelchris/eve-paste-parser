@@ -1,0 +1,32 @@
+Dark Glitter	238	238,000 m3	46 km
+Dark Glitter	242	242,000 m3	51 km
+Dark Glitter	246	246,000 m3	54 km
+Dark Glitter	274	274,000 m3	21 km
+Gelidus	92	92,000 m3	39 km
+Gelidus	96	96,000 m3	8,405 m
+Gelidus	100	100,000 m3	10 km
+Gelidus	112	112,000 m3	23 km
+Glare Crust	152	152,000 m3	43 km
+Glare Crust	159	159,000 m3	27 km
+Glare Crust	159	159,000 m3	29 km
+Glare Crust	159	159,000 m3	34 km
+Glare Crust	168	168,000 m3	24 km
+Pristine White Glaze	269	269,000 m3	12 km
+Pristine White Glaze	271	271,000 m3	27 km
+Pristine White Glaze	280	280,000 m3	52 km
+Pristine White Glaze	282	282,000 m3	33 km
+Pristine White Glaze	285	285,000 m3	26 km
+Pristine White Glaze	288	288,000 m3	49 km
+Pristine White Glaze	294	294,000 m3	15 km
+Pristine White Glaze	302	302,000 m3	10 km
+Pristine White Glaze	319	319,000 m3	8,207 m
+Pristine White Glaze	320	320,000 m3	11 km
+Pristine White Glaze	321	321,000 m3	3,273 m
+Pristine White Glaze	323	323,000 m3	14 km
+Pristine White Glaze	332	332,000 m3	5,097 m
+Pristine White Glaze	334	334,000 m3	29 km
+Pristine White Glaze	336	336,000 m3	20 km
+Pristine White Glaze	343	343,000 m3	53 km
+Pristine White Glaze	357	357,000 m3	33 km
+Pristine White Glaze	357	357,000 m3	6,109 m
+Pristine White Glaze	358	358,000 m3	38 km

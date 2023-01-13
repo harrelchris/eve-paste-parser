@@ -1,0 +1,3 @@
+Metal Scraps	1	Commodities			0.01 m3	994.05 ISK
+Thorium Charge S	100	Hybrid Charge	Small		0.25 m3	1,100.00 ISK
+Veldspar	25	Veldspar			2.50 m3	260.75 ISK

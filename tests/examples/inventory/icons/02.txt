@@ -1,0 +1,7 @@
+Rapier
+Huginn
+Noctis
+Prowler
+Catalyst
+Minmatar Shuttle	1
+Doc Harrel's Minmatar Shuttle

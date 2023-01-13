@@ -1,0 +1,26 @@
+[Cyclone, A Cyclone]
+Damage Control II
+Nanofiber Internal Structure II
+Nanofiber Internal Structure II
+Overdrive Injector System II
+Power Diagnostic System II
+
+50MN Cold-Gas Enduring Microwarpdrive
+Large Shield Extender II
+Large Shield Extender II
+Multispectrum Shield Hardener II
+Multispectrum Shield Hardener II
+
+Rapid Light Missile Launcher II,Caldari Navy Mjolnir Light Missile
+Rapid Light Missile Launcher II,Caldari Navy Mjolnir Light Missile
+Rapid Light Missile Launcher II,Caldari Navy Mjolnir Light Missile
+Rapid Light Missile Launcher II,Caldari Navy Mjolnir Light Missile
+Skirmish Command Burst II,Evasive Maneuvers Charge
+Skirmish Command Burst II,Interdiction Maneuvers Charge
+Skirmish Command Burst II,Rapid Deployment Charge
+
+Medium Command Processor I
+Medium Command Processor I
+Medium Hyperspatial Velocity Optimizer I
+
+Hornet EC-300 x5

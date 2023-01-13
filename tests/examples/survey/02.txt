@@ -1,0 +1,7 @@
+Arkonor	1,100	17,600 m3	22 km
+Arkonor	1,500	24,000 m3	22 km
+Arkonor	2,000	32,000 m3	22 km
+Arkonor	2,400	38,400 m3	18 km
+Bistot	1,600	25,600 m3	16 km
+Bistot	2,200	35,200 m3	19 km
+Bistot	3,200	51,200 m3	17 km
